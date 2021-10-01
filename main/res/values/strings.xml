@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">COOKIES</string>
+    <string name="txt_students">cookies</string>
+    <string name="btn_students">add cookies</string>
+</resources>
